@@ -1,2 +1,2 @@
 # trees
-D3js Tree samples
+Check sample tree at: <http://htmlpreview.github.io/?https://github.com/epogrebnyak/trees/blob/master/index.htm>
