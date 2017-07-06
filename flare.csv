@@ -56,7 +56,7 @@ sport.Fencing.Foil,
 sport.Shoot,
 sport.Shoot.Target,
 sport.Shoot.Target.Archery,
-sport.Shoot.Target.CrossBow
+sport.Shoot.Target.CrossBow,
 sport.Shoot.Target.Pistol,
 sport.Shoot.Target.Rifle,
 sport.Shoot.Opponents,
