@@ -24,7 +24,7 @@ sport.Speed.Skate.ShortTrack,
 sport.Fall,
 sport.Fall.SkiJump,
 sport.Fall.WaterDive,
-sport.Fall.SkyDive
+sport.Fall.SkyDive,
 sport.WaterSurface,
 sport.WaterSurface.Surf,
 sport.WaterSurface.WindSurf,
