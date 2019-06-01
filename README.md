@@ -10,7 +10,9 @@ Issues:
 - mixed sports
 
 
-| MSA           | description   | Altivec       |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| MSA           | description                  | Altivec       |
+| :------------ | :--------------------------: | ------------: |
+| ILVL.B        | Interleave left (byte)       | VMRGHB        |
+| ILVL.H        | Interleave left (halfword)   | VMRGHH        |
+| ILVL.W        | Interleave left (word)       | VMRGHW        |
+| ILVL.D        | Interleave left (doubleword) |  n/a          |
