@@ -9,6 +9,9 @@ Issues:
 - Russian letters and spaces in names
 - mixed sports
 
+Data Communication Instructions
+-------------------------------
+
 
 | MSA           | description                   | Altivec       |
 | :------------ | :---------------------------: | ------------: |
@@ -28,3 +31,30 @@ Issues:
 | ILVOD.H       | interleave odd (halfword)     |  n/a          |
 | ILVOD.W       | interleave odd (word)         | VMRGOW        |
 | ILVOD.D       | interleave odd (doubleword)   |  n/a          |
+
+
+Logical Instructions
+--------------------
+
+
+| MSA           | description                   | Altivec       |
+| :------------ | :---------------------------: | ------------: |
+| AND.V         | bitwise AND                   | VAND          |
+| OR.V          | bitwise OR                    | VOR           |
+| NOR.V         | bitwise NOR                   | VNOR          |
+| XOR.V         | bitwise XOR                   | VXOR          |
+|  n/a          | bitwise NAND                  | VNAND         |
+|  n/a          | bitwise AND with complement   | VANDC         |
+|  n/a          | bitwise OR with complement    | VORC          |
+|  n/a          | bitwise equivalence           | VEQV          |
+
+
+Parity Instructions
+-------------------
+
+
+| MSA           | description                   | Altivec       |
+| :------------ | :---------------------------: | ------------: |
+|  n/a          | parity byte word              | VPRTYW        |
+|  n/a          | parity byte doubleword        | VPRTYD        |
+|  n/a          | parity byte quadword          | VPRTYQ        |
